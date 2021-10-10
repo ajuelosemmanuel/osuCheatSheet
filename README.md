@@ -51,6 +51,9 @@ To-do list :
 + [osu!acc](https://osuacc.atilo.sh/) : A tool that show you which plays are bringing your global accuracy down, and how much they are
 + [osu!search](https://osusearch.com/) : Advanced search for osu! beatmaps
 + [osu!track](https://ameobea.me/osutrack/) : More statistics !
++ [o!rdr](https://ordr.issou.best/#/) : upload and share your replays with your osr file and without using youtube/streamable
++ [osu!Collector](https://osucollector.com/) : share and download collections
++ [osu! Stamina Trainer](https://ojcastaneda.github.io/osu-stamina-trainer-web/#/) : bot that gives stamina oriented maps
 
 ## Tools
 + [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) : Excellent tablet driver
