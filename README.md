@@ -35,7 +35,7 @@
 + `V` : Auto
 + `B` : Sv2
 
-## Searching beatmaps in-game (from the  [wiki](https://osu.ppy.sh/wiki/en/Interface#search))
+## Searching beatmaps in-game (from the  [ wiki](https://osu.ppy.sh/wiki/en/Interface#search))
 
 ### Supported filters
 + `artist` : Name of the artist
@@ -65,7 +65,7 @@
 + `>=` : Greater than or equal to
 You may also enter a difficulty or beatmap ID number in your search to get a single result.
 
-## Multiplayer commands (from the  [wiki](https://osu.ppy.sh/wiki/en/osu%21tourney/Tournament_Management_Commands))
+## Multiplayer commands (from the  [ wiki](https://osu.ppy.sh/wiki/en/osu%21tourney/Tournament_Management_Commands))
 
 + `!mp make <name>` : Creates a tournament room with the specified name. A maximum of 4 such rooms may be created.
   + This room is special in that it is not closed when all players have left the room, and it is password protected from players joining this room themselves.
