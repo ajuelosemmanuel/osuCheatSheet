@@ -122,6 +122,9 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [o!rdr](https://ordr.issou.best/#/) : upload and share your replays with your osr file and without using youtube/streamable
 + [osu!Collector](https://osucollector.com/) : share and download collections
 + [osu! Stamina Trainer](https://ojcastaneda.github.io/osu-stamina-trainer-web/#/) : bot that gives stamina oriented maps
++ [Beatconnect](https://beatconnect.io/) : osu! beatmaps mirror
++ [chimu.moe](https://chimu.moe/beatmaps) : osu! beatmaps mirror
++ [osu!skills](https://osuskills.com/) : Alternative way to measure skill, with rankings by skillset
 
 ## Tools
 + [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) : Excellent tablet driver
@@ -132,6 +135,10 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [FL Practice diff maker](https://github.com/ssz7-ch2/OsuPracticeDiffMaker) : Practice diff maker, mainly for FL players
 + [Mapping Tools](https://mappingtools.github.io/) : All-in-one application for efficient and creative mapping in osu!
 + [osr2mp4](https://github.com/uyitroa/osr2mp4-app) : Application to convert replay files to video
++ [chat4osu](https://gitlab.com/hallowatcher/chat4osu) : IRC chat for osu! built for referees
++ [CollectionManager](https://github.com/Piotrekol/CollectionManager) : Collection manager for osu! - make sure to read the tutorial before using it
++ [ezpp!](https://github.com/oamaok/ezpp) : browser extension that displays pp values for a beatmap without downloading it
++ [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) : Program to analyze misses in a given osu! replay
 
 ## Tutorials / Guides
 ### Improvement
@@ -162,5 +169,9 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 
 
 ## Skins and skinning
++ [reddit community for skinning](https://www.reddit.com/r/osuskins/)
 + [osu!skins](https://skins.osuck.net/) : Huge skin archive (1500+ skins)
-
++ [osuskinner](https://osuskinner.com/) : Online skin maker
++ [Skin editor](https://osu.ppy.sh/community/forums/topics/486941?n=1) : Application to create/edit skins easily
++ [beatmapr](http://www.beatmapr.com/#/) : Online skin maker
++ [Circle people skins archive](https://circle-people.com/skins/) : Another skin archive
