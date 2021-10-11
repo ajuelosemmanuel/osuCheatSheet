@@ -20,6 +20,13 @@
 + `F2` : Select a random beatmap
 + `Shift + F2` : Go back to the previously random-selected beatmap (when you `F2` twice and skip a banger)
 + `Shift + Enter` : Open/Collapse a category (or collection)
++ `F3` : Open beatmap options menu
+  + `1` : Manage collections
+  + `2` : Delete
+  + `3` : Remove from unplayed
+  + `4` : Clear local scores
+  + `5` : Edit
+  + `6` : Cancel
 
 ### Game modifiers selection menu only
 + `Q` : EZ
