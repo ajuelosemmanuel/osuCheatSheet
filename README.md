@@ -125,6 +125,10 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [Beatconnect](https://beatconnect.io/) : osu! beatmaps mirror
 + [chimu.moe](https://chimu.moe/beatmaps) : osu! beatmaps mirror
 + [osu!skills](https://osuskills.com/) : Alternative way to measure skill, with rankings by skillset
++ [Country #1 leaderboard](https://snipe.huismetbenen.nl/) : Make sure to select the right country (Netherlands by default)
++ [SliderStudio](https://slider.little.moe/) : Online slider maker
++ [osu! matchmaking](https://oma.hwc.hr/) : 1v1 or 2v2 matchmaking system for osu!
++ [Look At My Score!](https://lookatmysco.re/) : Online (clean) scorepost maker
 
 ## Tools
 + [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) : Excellent tablet driver
@@ -139,9 +143,12 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [CollectionManager](https://github.com/Piotrekol/CollectionManager) : Collection manager for osu! - make sure to read the tutorial before using it
 + [ezpp!](https://github.com/oamaok/ezpp) : browser extension that displays pp values for a beatmap without downloading it
 + [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) : Program to analyze misses in a given osu! replay
++ [Circleguard](https://github.com/circleguard/circleguard) : Circleguard is a tool to help you analyze osu! replays. Either your own, or replays from someone you suspect is cheating
++ [storybrew](https://github.com/Damnae/storybrew) : Storyboard maker for osu!
 
 ## Tutorials / Guides
 ### Improvement
++ [osu! phd](https://youtu.be/uc99yWeP1h4) : In depth guide about what are the different skills in osu! and how those are tied to each other
 + [Korilaks's guide to improving in osu!](https://puu.sh/unB20/caee7b883d.pdf) : In depth guide about how to play in order to improve efficiently (covers all "skillsets")
 + [khz streaming guide](https://docs.google.com/document/d/1xbNwH_vN4O3azBYwua-Z_3GOAI2d-kV_EeE96aiRLBU/edit) : khz's guide to streaming - for context, he's a 3 digit player who's known for his speed and stamina skills ([video version](https://youtu.be/JFTlYOY4-e4))
 + [Spare's video about stamina and speed](https://youtu.be/yXdtbFNgCfY) : Spare's "guide" to streaming, covering stamina and speed. In case you don't know, he's a 2 digit player who's well rounded to say the least.
