@@ -153,6 +153,8 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) : Program to analyze misses in a given osu! replay
 + [Circleguard](https://github.com/circleguard/circleguard) : Circleguard is a tool to help you analyze osu! replays. Either your own, or replays from someone you suspect is cheating
 + [storybrew](https://github.com/Damnae/storybrew) : Storyboard maker for osu!
++ [Taiko Editor](https://osu.ppy.sh/community/forums/topics/1373230) : External editor for taiko maps
++ [Beatmap help tool](https://osu.ppy.sh/community/forums/topics/673325) : Another beatmap editing tool, mostly used for SV in o!taiko
 
 ## Tutorials / Guides
 ### Improvement
