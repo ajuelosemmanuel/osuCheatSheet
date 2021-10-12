@@ -63,7 +63,7 @@
 + `unplayed` : Shows only unplayed maps. A comparison with no set value must be used. The comparison itself is ignored.
 + `speed` : Saved osu!mania scroll speed. Always 0 for unplayed maps or if the Remember osu!mania scroll speed per beatmap option is off
 
-### Supported comparisons:
+### Supported comparisons
 
 + `= or ==` : Equal to
 + `!=` : Not equal to
