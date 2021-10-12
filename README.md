@@ -1,6 +1,6 @@
 # osu!CheatSheet
 
-> A small website for a lot of osu! ressources !
+> A small website for a lot of osu! resources !
 ## Shortcuts
 
 ### General
