@@ -43,7 +43,7 @@
 + `V` : Auto
 + `B` : Sv2
 
-## Searching beatmaps in-game (from the [wiki](https://osu.ppy.sh/wiki/en/Interface#search))
+## Searching beatmaps in-game (from the  [wiki](https://osu.ppy.sh/wiki/en/Interface#search))
 
 ### Supported filters
 + `artist` : Name of the artist
