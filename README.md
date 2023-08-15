@@ -137,6 +137,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [SliderStudio](https://slider.little.moe/) : Online slider maker
 + [osu! matchmaking](https://oma.hwc.hr/) : 1v1 or 2v2 matchmaking system for osu!
 + [Look At My Score!](https://lookatmysco.re/) : Online (clean) scorepost maker
++ [osu!Ranked Lobbies](https://osu.kiwec.net/create-lobby/) : Create multiplayer lobbies online and alternate ranking
 
 ## Tools
 + [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) : Excellent tablet driver
