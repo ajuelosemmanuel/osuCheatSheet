@@ -156,6 +156,8 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [storybrew](https://github.com/Damnae/storybrew) : Storyboard maker for osu!
 + [Taiko Editor](https://osu.ppy.sh/community/forums/topics/1373230) : External editor for taiko maps
 + [Beatmap help tool](https://osu.ppy.sh/community/forums/topics/673325) : Another beatmap editing tool, mostly used for SV in o!taiko
++ [Brigitta](https://github.com/hburn7/Brigitta) : Another IRC chat for osu! built for referees
++ [Mappool Viewer](https://reykim7854.github.io/mappool-generator/) : Generate a Lazer-style view of your mappool without Lazer - useful when you are streaming a tournament
 
 ## Tutorials / Guides
 ### Improvement
