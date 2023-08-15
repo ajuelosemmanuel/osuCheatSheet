@@ -138,6 +138,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [osu! matchmaking](https://oma.hwc.hr/) : 1v1 or 2v2 matchmaking system for osu!
 + [Look At My Score!](https://lookatmysco.re/) : Online (clean) scorepost maker
 + [osu!Ranked Lobbies](https://osu.kiwec.net/create-lobby/) : Create multiplayer lobbies online and alternate ranking
++ [osu! Tournament Spreadsheet Templates](https://drive.google.com/drive/folders/1giAjZmjNy9nWsZd6wrxwJe_NA6IO8DqL) : Google sheets templates to make tournament sheets
 
 ## Tools
 + [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) : Excellent tablet driver
@@ -179,6 +180,8 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [How to make a customized overlay for streaming](https://www.reddit.com/r/osugame/comments/ec0id3/how_to_make_an_autochanging_background_overlays/) : Guide to have a fully customized (Dynamic HP bar, custom PP counter, auto changing BG, ...) streaming overlay
 + [How to remove latency on osu!](https://www.reddit.com/r/osugame/comments/hqoakj/tutorial_removing_perceivable_latency_for_good/) : Great guide adressing input latency, audio latency and windows audio buffer latency
 + [How to make a practice difficulty efficiently](https://youtu.be/65nsCTLsTzk)
+
+
 ## Map packs
 + [ThePoon's 2020 osu! songs folder (55Gb)](https://www.reddit.com/r/osugame/comments/bfblao/updated_my_beatmaps_pack_torrent_55gb_many/)
 + [kwk alt map collection](https://docs.google.com/spreadsheets/d/14_lOp6k7CtGDAvJZ-ptYmSgO56sAhiqAqUZ_s5StbnU/edit?usp=sharing)
@@ -186,7 +189,6 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [Dragonforce maps list](https://docs.google.com/spreadsheets/d/1yO3QIGt50pT1BtCgZ50sqAIOirEcF0IApC3i13a4ScE/edit#gid=0)
 + [bog's speed map archive](https://docs.google.com/spreadsheets/d/14BDzlKmRXEnCNM65YKTE-J8TepRtIRAXMgDxKr9PdqQ/edit#gid=0)
 + [-Element-'s speed up packs](https://osu.ppy.sh/users/6113284) : check the user's "me!" section ;)
-
 
 ## Skins and skinning
 + [reddit community for skinning](https://www.reddit.com/r/osuskins/)
