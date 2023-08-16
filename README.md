@@ -139,7 +139,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [Look At My Score!](https://lookatmysco.re/) : Online (clean) scorepost maker
 + [osu!Ranked Lobbies](https://osu.kiwec.net/create-lobby/) : Create multiplayer lobbies online and alternate ranking
 + [osu! Tournament Spreadsheet Templates](https://drive.google.com/drive/folders/1giAjZmjNy9nWsZd6wrxwJe_NA6IO8DqL) : Google sheets templates to make tournament sheets
-+ [Beatmap viewer](https://fukutotojido.github.io/beatmap-viewer-how/) : Website that can preview any beatmap, with a timeline
++ [JoSu!](https://fukutotojido.github.io/beatmap-viewer-how/) : Website that can preview any beatmap, with a timeline
 
 ## Tools
 + [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) : Excellent tablet driver
