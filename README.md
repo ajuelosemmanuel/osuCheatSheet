@@ -146,6 +146,12 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [TAG Beatmap Splitter](http://tag.pckv.me/) : Splits beatmaps so you can create TAG replays (ex : https://youtu.be/9FTAfPpsP20)
 + [ppaddict](https://ppaddict.tillerino.org/) : Web! version of Tillerino - recommands you farm maps depending on your top plays
 + [Mutualify](https://mutualify.stanr.info/) : Database of players' friends lists, allows you to see who's following you, if they are registered on it
++ [OMDB](https://omdb.nyahh.net/) : Map rating website
++ [Map Rank Times](https://mapranktimes.vercel.app/) : Countdown until qualified maps become ranked
++ [Improvement Batches](https://improvementbatches.netlify.app/) : Web app with collections of maps to guide improvement in osu!mania
++ [osu! Stream Speed Benchmark](https://ckrisirkc.github.io/osuStreamSpeed.js/newindex.html) : Web app to test your streaming speed, with some statistics
++ [osu! Tournament Union Mappool Database](https://otu.stagec.xyz/) : Search tool for mappools, including stats and skillsets filters
++ [osu! scores inspector](https://score.kirino.sh/) : Website that generates statistics from all of your scores
 
 ## Tools
 + [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) : Excellent tablet driver
@@ -173,6 +179,11 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [osu! preview](https://chrome.google.com/webstore/detail/osu-preview/higcadegkhhhjcljhpggammlhmlbdcmc) : Web extension to preview beatmaps on the osu! website
 + [Rewind](https://github.com/abstrakt8/rewind) : Replay analyzer
 + [osu-mutual-finder](https://github.com/metkm/osu-mutual-finder) : Find who's following you in secret !
++ [JKPS](https://github.com/JekiTheMonkey/JKPS) : Key overlay with some statistics
++ [osu! skin mixer](https://github.com/rednir/OsuSkinMixer) : Skin manager and mixer
++ [osz-cleaner](https://github.com/pishifat/osz-cleaner) : Turns any .osz file into a clean map template
++ [RPCCompanion](https://github.com/NateOnLinux/RPCCompanion) : Plugin for StreamCompanion that provides detailed Rich Presence information to Discord
++ [osu! difficulty filter](https://chrome.google.com/webstore/detail/osu-difficulty-filter/bbckmnofmlhalfimlpbpnflbccakkndc) : Web extension to filter beatmaps on the osu! website depending on their star rating
 
 ## Tutorials / Guides
 ### Improvement
@@ -194,6 +205,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [How to make a customized overlay for streaming](https://www.reddit.com/r/osugame/comments/ec0id3/how_to_make_an_autochanging_background_overlays/) : Guide to have a fully customized (Dynamic HP bar, custom PP counter, auto changing BG, ...) streaming overlay
 + [How to remove latency on osu!](https://www.reddit.com/r/osugame/comments/hqoakj/tutorial_removing_perceivable_latency_for_good/) : Great guide adressing input latency, audio latency and windows audio buffer latency
 + [How to make a practice difficulty efficiently](https://youtu.be/65nsCTLsTzk)
++ [Installing osu! on Linux](https://osu.ppy.sh/community/forums/topics/1248084?n=1)
 
 
 ## Map packs
