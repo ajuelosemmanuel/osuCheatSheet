@@ -139,6 +139,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [Look At My Score!](https://lookatmysco.re/) : Online (clean) scorepost maker
 + [osu!Ranked Lobbies](https://osu.kiwec.net/create-lobby/) : Create multiplayer lobbies online and alternate ranking
 + [osu! Tournament Spreadsheet Templates](https://drive.google.com/drive/folders/1giAjZmjNy9nWsZd6wrxwJe_NA6IO8DqL) : Google sheets templates to make tournament sheets
++ [Beatmap viewer](https://fukutotojido.github.io/beatmap-viewer-how/) : Website that can preview any beatmap, with a timeline
 
 ## Tools
 + [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) : Excellent tablet driver
@@ -148,7 +149,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [osu-trainer](https://github.com/FunOrange/osu-trainer) : Beatmap difficulty controls for osu!
 + [FL Practice diff maker](https://github.com/ssz7-ch2/OsuPracticeDiffMaker) : Practice diff maker, mainly for FL players
 + [Mapping Tools](https://mappingtools.github.io/) : All-in-one application for efficient and creative mapping in osu!
-+ [osr2mp4](https://github.com/uyitroa/osr2mp4-app) : Application to convert replay files to video
++ [danser](https://github.com/Wieku/danser-go) : Application to convert replay files to video
 + [chat4osu](https://gitlab.com/hallowatcher/chat4osu) : IRC chat for osu! built for referees
 + [CollectionManager](https://github.com/Piotrekol/CollectionManager) : Collection manager for osu! - make sure to read the tutorial before using it
 + [ezpp!](https://github.com/oamaok/ezpp) : browser extension that displays pp values for a beatmap without downloading it
