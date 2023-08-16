@@ -184,6 +184,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [osz-cleaner](https://github.com/pishifat/osz-cleaner) : Turns any .osz file into a clean map template
 + [RPCCompanion](https://github.com/NateOnLinux/RPCCompanion) : Plugin for StreamCompanion that provides detailed Rich Presence information to Discord
 + [osu! difficulty filter](https://chrome.google.com/webstore/detail/osu-difficulty-filter/bbckmnofmlhalfimlpbpnflbccakkndc) : Web extension to filter beatmaps on the osu! website depending on their star rating
++ [Osu-Instafade-Tool](https://github.com/clarks03/Osu-Instafade-Tool) : Turn your skin's animation to instafade
 
 ## Tutorials / Guides
 ### Improvement
