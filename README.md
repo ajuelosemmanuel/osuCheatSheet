@@ -206,7 +206,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [How to remove latency on osu!](https://www.reddit.com/r/osugame/comments/hqoakj/tutorial_removing_perceivable_latency_for_good/) : Great guide adressing input latency, audio latency and windows audio buffer latency
 + [How to make a practice difficulty efficiently](https://youtu.be/65nsCTLsTzk)
 + [Installing osu! on Linux](https://osu.ppy.sh/community/forums/topics/1248084?n=1)
-+ [osu!mapping tutorials](https://youtube.com/playlist?list=PLp7-THR1EUHERrIOV4dGClCGGoLIrQtOx) : Youtube videos made by Pishifat about mapping
++ [osu!mapping tutorials](https://youtube.com/playlist?list=PLp7-THR1EUHERrIOV4dGClCGGoLIrQtOx) : Youtube videos made by pishifat about mapping
 
 ## Map packs
 + [ThePoon's 2020 osu! songs folder (55Gb)](https://www.reddit.com/r/osugame/comments/bfblao/updated_my_beatmaps_pack_torrent_55gb_many/)
