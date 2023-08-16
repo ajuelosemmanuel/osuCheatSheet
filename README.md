@@ -152,6 +152,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [osu! Stream Speed Benchmark](https://ckrisirkc.github.io/osuStreamSpeed.js/newindex.html) : Web app to test your streaming speed, with some statistics
 + [osu! Tournament Union Mappool Database](https://otu.stagec.xyz/) : Search tool for mappools, including stats and skillsets filters
 + [osu! scores inspector](https://score.kirino.sh/) : Website that generates statistics from all of your scores
++ [Circle Circuit](https://www.circlecircuit.org/) : osu! esports league
 
 ## Tools
 + [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) : Excellent tablet driver
