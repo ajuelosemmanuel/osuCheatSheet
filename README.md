@@ -197,6 +197,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [Verto's video on alternating](https://youtu.be/xx3e1NKrbWc)
 + [SpeedrunsSin's guide for Tap X Players](https://www.reddit.com/r/osugame/comments/ejlgph/ultimate_guide_tap_x_players/) : Tap X alt playstyle guide (Tobe style)
 + [AndrewRK's "Stop Lying to yourself in osu!" reddit post](https://www.reddit.com/r/osugame/comments/f3r1yf/stop_lying_to_yourself_in_osu/) : Probably one of the best "rant" post on osugame I've ever seen, and also the perfect answer to "how do I get better at the game"
++ [Tonehh's Youtube channel](https://www.youtube.com/c/Tonehhosu) : A channel with a LOT of improvement-focused videos
 
 ### Everything Else
 + [Happystick's interview with Dr. Levi Harrison](https://www.reddit.com/r/osugame/comments/7wni1t/i_went_through_happysticks_interview_with_dr_levi/) : Advices regarding hand stretching in order to avoid pain/RSI
