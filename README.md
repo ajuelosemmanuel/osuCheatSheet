@@ -127,8 +127,8 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [osu!acc](https://osuacc.atilo.sh/) : A tool that show you which plays are bringing your global accuracy down, and how much they are
 + [osu!search](https://osusearch.com/) : Advanced search for osu! beatmaps
 + [osu!track](https://ameobea.me/osutrack/) : More statistics !
-+ [o!rdr](https://ordr.issou.best/#/) : upload and share your replays with your osr file and without using youtube/streamable
-+ [osu!Collector](https://osucollector.com/) : share and download collections
++ [o!rdr](https://ordr.issou.best/#/) : Upload and share your replays with your osr file and without using youtube/streamable
++ [osu!Collector](https://osucollector.com/) : Share and download collections
 + [osu! Stamina Trainer](https://ojcastaneda.github.io/osu-stamina-trainer-web/#/) : bot that gives stamina oriented maps
 + [Beatconnect](https://beatconnect.io/) : osu! beatmaps mirror
 + [chimu.moe](https://chimu.moe/beatmaps) : osu! beatmaps mirror
@@ -140,6 +140,12 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [osu!Ranked Lobbies](https://osu.kiwec.net/create-lobby/) : Create multiplayer lobbies online and alternate ranking
 + [osu! Tournament Spreadsheet Templates](https://drive.google.com/drive/folders/1giAjZmjNy9nWsZd6wrxwJe_NA6IO8DqL) : Google sheets templates to make tournament sheets
 + [JoSu!](https://fukutotojido.github.io/beatmap-viewer-how/) : Website that can preview any beatmap, with a timeline
++ [webosu!](https://webosu.online/index.html) : Browser version of osu!
++ [osu! Stats Signature](https://osu-sig.vercel.app/) : Signature generator with user statistics
++ [osu!next Signature Generator](https://lemmmy.pw/osusig/) : Signature generator with user statistics
++ [TAG Beatmap Splitter](http://tag.pckv.me/) : Splits beatmaps so you can create TAG replays (ex : https://youtu.be/9FTAfPpsP20)
++ [ppaddict](https://ppaddict.tillerino.org/) : Web! version of Tillerino - recommands you farm maps depending on your top plays
++ [Mutualify](https://mutualify.stanr.info/) : Database of players' friends lists, allows you to see who's following you, if they are registered on it
 
 ## Tools
 + [OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver) : Excellent tablet driver
@@ -152,7 +158,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [danser](https://github.com/Wieku/danser-go) : Application to convert replay files to video
 + [chat4osu](https://gitlab.com/hallowatcher/chat4osu) : IRC chat for osu! built for referees
 + [CollectionManager](https://github.com/Piotrekol/CollectionManager) : Collection manager for osu! - make sure to read the tutorial before using it
-+ [ezpp!](https://github.com/oamaok/ezpp) : browser extension that displays pp values for a beatmap without downloading it
++ [ezpp!](https://github.com/oamaok/ezpp) : Browser extension that displays pp values for a beatmap without downloading it
 + [osu! Miss Analyzer](https://github.com/ThereGoesMySanity/osuMissAnalyzer) : Program to analyze misses in a given osu! replay
 + [Circleguard](https://github.com/circleguard/circleguard) : Circleguard is a tool to help you analyze osu! replays. Either your own, or replays from someone you suspect is cheating
 + [storybrew](https://github.com/Damnae/storybrew) : Storyboard maker for osu!
@@ -160,6 +166,13 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [Beatmap help tool](https://osu.ppy.sh/community/forums/topics/673325) : Another beatmap editing tool, mostly used for SV in o!taiko
 + [Brigitta](https://github.com/hburn7/Brigitta) : Another IRC chat for osu! built for referees
 + [Mappool Viewer](https://reykim7854.github.io/mappool-generator/) : Generate a Lazer-style view of your mappool without Lazer - useful when you are streaming a tournament
++ [osuplus](https://github.com/limjeck/osuplus) : Web extension that adds lots of features to the osu! website, including friend and mod leaderboards, which are only available with supporter otherwise !
++ [osu color changer](https://userstyles.world/style/1767/osu-color-changer) : Web extension to change the colors of the osu! website, and other stuff
++ [expand-me-page](https://github.com/clxxiii/expand-me-page) : Web extension that adds a button at the end of the "me! page" so you don't have to scroll your way through
++ [PippiTrack](https://dashboard.twitch.tv/extensions/zqst1nq21s3rw0y29kgrza7zt8jux0) : Twitch dashboard extension that displays your top/pinned/recent plays
++ [osu! preview](https://chrome.google.com/webstore/detail/osu-preview/higcadegkhhhjcljhpggammlhmlbdcmc) : Web extension to preview beatmaps on the osu! website
++ [Rewind](https://github.com/abstrakt8/rewind) : Replay analyzer
++ [osu-mutual-finder](https://github.com/metkm/osu-mutual-finder) : Find who's following you in secret !
 
 ## Tutorials / Guides
 ### Improvement
@@ -176,7 +189,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 
 ### Everything Else
 + [Happystick's interview with Dr. Levi Harrison](https://www.reddit.com/r/osugame/comments/7wni1t/i_went_through_happysticks_interview_with_dr_levi/) : Advices regarding hand stretching in order to avoid pain/RSI
-+ [Verto's first video on osu! terms](https://youtu.be/FIOsNK1JPcg) : learn the osu! slang
++ [Verto's first video on osu! terms](https://youtu.be/FIOsNK1JPcg) : Learn the osu! slang
 + [Verto's second video on osu! terms](https://youtu.be/0rjB5GxsxGg)
 + [How to make a customized overlay for streaming](https://www.reddit.com/r/osugame/comments/ec0id3/how_to_make_an_autochanging_background_overlays/) : Guide to have a fully customized (Dynamic HP bar, custom PP counter, auto changing BG, ...) streaming overlay
 + [How to remove latency on osu!](https://www.reddit.com/r/osugame/comments/hqoakj/tutorial_removing_perceivable_latency_for_good/) : Great guide adressing input latency, audio latency and windows audio buffer latency
@@ -189,7 +202,7 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [Stream collection 2.0](https://www.reddit.com/r/osugame/comments/k3uwg8/stream_collection_20_is_here_120_300_bpm_1300/)
 + [Dragonforce maps list](https://docs.google.com/spreadsheets/d/1yO3QIGt50pT1BtCgZ50sqAIOirEcF0IApC3i13a4ScE/edit#gid=0)
 + [bog's speed map archive](https://docs.google.com/spreadsheets/d/14BDzlKmRXEnCNM65YKTE-J8TepRtIRAXMgDxKr9PdqQ/edit#gid=0)
-+ [-Element-'s speed up packs](https://osu.ppy.sh/users/6113284) : check the user's "me!" section ;)
++ [-Element-'s speed up packs](https://osu.ppy.sh/users/6113284) : Check the user's "me!" section ;)
 
 ## Skins and skinning
 + [reddit community for skinning](https://www.reddit.com/r/osuskins/)
