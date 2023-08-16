@@ -184,6 +184,8 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [osz-cleaner](https://github.com/pishifat/osz-cleaner) : Turns any .osz file into a clean map template
 + [RPCCompanion](https://github.com/NateOnLinux/RPCCompanion) : Plugin for StreamCompanion that provides detailed Rich Presence information to Discord
 + [osu! difficulty filter](https://chrome.google.com/webstore/detail/osu-difficulty-filter/bbckmnofmlhalfimlpbpnflbccakkndc) : Web extension to filter beatmaps on the osu! website depending on their star rating
++ [osu-ahr](https://github.com/Meowhal/osu-ahr) : Auto Host Rotation bot for osu! multiplayer
++ [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier) : App which tests quantifyable issues in beatmapsets from osu!, such as unsnapped objects and unused files
 
 ## Tutorials / Guides
 ### Improvement
