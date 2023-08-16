@@ -181,11 +181,9 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [Rewind](https://github.com/abstrakt8/rewind) : Replay analyzer
 + [osu-mutual-finder](https://github.com/metkm/osu-mutual-finder) : Find who's following you in secret !
 + [JKPS](https://github.com/JekiTheMonkey/JKPS) : Key overlay with some statistics
-+ [osu! skin mixer](https://github.com/rednir/OsuSkinMixer) : Skin manager and mixer
 + [osz-cleaner](https://github.com/pishifat/osz-cleaner) : Turns any .osz file into a clean map template
 + [RPCCompanion](https://github.com/NateOnLinux/RPCCompanion) : Plugin for StreamCompanion that provides detailed Rich Presence information to Discord
 + [osu! difficulty filter](https://chrome.google.com/webstore/detail/osu-difficulty-filter/bbckmnofmlhalfimlpbpnflbccakkndc) : Web extension to filter beatmaps on the osu! website depending on their star rating
-+ [Osu-Instafade-Tool](https://github.com/clarks03/Osu-Instafade-Tool) : Turn your skin's animation to instafade
 
 ## Tutorials / Guides
 ### Improvement
@@ -209,7 +207,6 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [How to make a practice difficulty efficiently](https://youtu.be/65nsCTLsTzk)
 + [Installing osu! on Linux](https://osu.ppy.sh/community/forums/topics/1248084?n=1)
 
-
 ## Map packs
 + [ThePoon's 2020 osu! songs folder (55Gb)](https://www.reddit.com/r/osugame/comments/bfblao/updated_my_beatmaps_pack_torrent_55gb_many/)
 + [kwk alt map collection](https://docs.google.com/spreadsheets/d/14_lOp6k7CtGDAvJZ-ptYmSgO56sAhiqAqUZ_s5StbnU/edit?usp=sharing)
@@ -225,3 +222,5 @@ Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. P
 + [Skin editor](https://osu.ppy.sh/community/forums/topics/486941?n=1) : Application to create/edit skins easily
 + [beatmapr](http://www.beatmapr.com/#/) : Online skin maker
 + [Circle people skins archive](https://circle-people.com/skins/) : Another skin archive
++ [osu! skin mixer](https://github.com/rednir/OsuSkinMixer) : Skin manager and mixer
++ [Osu-Instafade-Tool](https://github.com/clarks03/Osu-Instafade-Tool) : Turn your skin's animation to instafade
